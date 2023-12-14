@@ -97,16 +97,14 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
 
 ## Results
 
+![image](https://github.com/Siddhartha082/NLP_EDA_Womens_E_Commerce_Clothing/assets/110781138/8e63a3a9-2947-42e6-8175-05dc91762a9d)
+
+![image](https://github.com/Siddhartha082/NLP_EDA_Womens_E_Commerce_Clothing/assets/110781138/afeaa70d-dbfc-48ee-b4c0-0e0f5803b327)
+
+![image](https://github.com/Siddhartha082/NLP_EDA_Womens_E_Commerce_Clothing/assets/110781138/eab1e197-cdb8-408c-8070-d0295965c115)
 
 
-![norm-sentimentdist](data_visualization_images/norm-sentimentdist.png)
 
-
-
-![sentiment-deptname-rating-recommended](data_visualization_images/sentiment-deptname-rating-recommended.png)
-
-
-![HighlyRated](data_visualization_images/HighlyRated.png)
 
 
 
